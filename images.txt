@@ -7,4 +7,5 @@ xhofe/alist:latest
 nginx
 node
 node:14
+node:18
 node:20-alpine
