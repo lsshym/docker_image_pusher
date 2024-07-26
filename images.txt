@@ -7,3 +7,4 @@ xhofe/alist:latest
 nginx
 node
 node:14
+node:20
